@@ -1,0 +1,21 @@
+div.box
+display: flex;
+flex-direction: column;
+div.box{
+ height:200px;
+ width:200px;
+ text-align:center;
+ font-size:14px;
+ color:#090;
+ background-color:#dddddd;
+ margin-right:10px;
+}
+div.red{
+ background-color:#ffcccc;
+}
+div.green{
+ background-color:#ccffcc;
+}
+div.blue{
+ background-color:#ccccff;
+}
